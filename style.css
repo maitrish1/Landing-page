@@ -92,6 +92,9 @@
   text-decoration: none;
   color: black;
 }
+.container2-left h3 a:hover{
+  color: rgb(221, 0, 0);
+}
 .container2-right{
   width: 30%;
   display: flex;
@@ -100,6 +103,9 @@
 .container2-right h2 a{
   color: black;
   text-decoration: none;
+}
+.container2-right h2 a:hover{
+  color: rgb(221, 0, 0);
 }
 .container3 h1{
   font-size: 75px;
