@@ -120,6 +120,19 @@
 .contact a .fab fa-whatsapp{
  size: 7px;
 }
+summary {
+  display: flex;
+  cursor: pointer;
+}
+.collapsible-para{
+  padding-top: 50px;
+  display: flex;
+}
+summary::-webkit-details-marker {
+  display: none;
+}
+
+
 
   
 
