@@ -66,6 +66,35 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
+  .container2{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+  }
+.container2-left{
+  display: flex;
+  width: 70%;
+  align-items: center;
+}
+.container2-right{
+  width: 30%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.container3 h1{
+  font-size: 75px;
+}
+.container3 h4{
+  font-size: 50px;
+}
+
+.contact{
+  position: fixed;
+}
+.contact a .fab fa-whatsapp{
+ size: 7px;
+}
+
   
 
 
