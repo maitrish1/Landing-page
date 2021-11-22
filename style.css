@@ -6,6 +6,7 @@
 .container-one{
     background-image:url("img/bg-original\ Cropped\ \(1\).png");
     height: 500px;
+    background-attachment: fixed;
 }
 .header{
     height: 100px;
