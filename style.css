@@ -94,7 +94,7 @@
   color: black;
 }
 .container2-left h3 a:hover{
-  color: rgb(221, 0, 0);
+  color: rgb(238, 0, 0);
 }
 .container2-right{
   width: 30%;
@@ -106,7 +106,7 @@
   text-decoration: none;
 }
 .container2-right h2 a:hover{
-  color: rgb(221, 0, 0);
+  color: rgb(238, 0, 0);
 }
 .container3{
   padding-left: 30px;
@@ -154,7 +154,7 @@ summary::-webkit-details-marker {
   font-size: 20px;
 }
 .trailer ul li a:hover{
-  background-color: rgb(221, 0, 0);
+  background-color: rgb(238, 0, 0);
 }
 
 
