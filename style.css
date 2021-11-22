@@ -107,6 +107,9 @@
 .container2-right h2 a:hover{
   color: rgb(221, 0, 0);
 }
+.container3{
+  padding-left: 30px;
+}
 .container3 h1{
   font-size: 75px;
 }
@@ -126,12 +129,32 @@ summary {
 }
 .collapsible-para{
   padding-top: 50px;
+  padding-left: 30px;
   display: flex;
 }
 summary::-webkit-details-marker {
   display: none;
 }
+.trailer{
+  padding-top: 40px;
+}
+.trailer ul{
+  display: flex;
+}
+.trailer ul li{
+  list-style-type: none;
+}
 
+.trailer ul li a{
+  background-color:black;
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+.trailer ul li a:hover{
+  background-color: #FF0000;
+}
 
 
   
